@@ -1,9 +1,8 @@
 Hello! Thanks for checking out my sleep trivia script!
 
-This is my second bash script, and this is a nicer version of my other trivia script. The only difference between that one and this one are a few things
+This is my second bash script, and this is a nicer version of my other trivia script. The only difference between that one and this one are:
 1. The questions are all different
-2. There are a few ASCII photos in the text which make it look nicer ( I went back added ASCII art to the last script aswell)
-3. For every question wrong 30 seconds are added to the sleep timer
+2. For every question wrong 30 seconds are added to the sleep timer
 
 The sleep timer will be ran at the end of the script. The longer the sleep value is, the longer the user will have to wait for the script to terminate
 itself, allowing them to return to whatever they were doing beforehand.

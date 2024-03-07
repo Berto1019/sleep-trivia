@@ -19,4 +19,4 @@ was stored in ~/Pictures.
 
 Please don't use this for malicious purposes. I don't know why someone would, but I feel like I have to include this.
 
-- Berto
+-- Berto

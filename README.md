@@ -13,6 +13,10 @@ by this one as I had a lot of syntax errors since this only my second bash scrip
 format for the most part, just made it look nicer and instead of a scorebaord which acted as a grade, its a sleep timer. If you get all the questions wrong
 you gotta wait 4 minutes which is pretty funny.
 
+At the end of the script I commented out the ability for this file to remove itself so the user will not be able to find the script afterwards and see what
+it did. If you want this to happen, then go to the very last like and just remove the #. Also make sure the path is proper, I wrote it assuming that the file
+was stored in ~/Pictures.
+
 Please don't use this for malicious purposes. I don't know why someone would, but I feel like I have to include this.
 
 - Berto

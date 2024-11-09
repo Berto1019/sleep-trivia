@@ -1,5 +1,5 @@
 #!/bin/bash
-# Make sure file is stored in ~/Pictures and named .sleeptrivia.sh
+# Make sure file is stored in ~/Pictures and named sleeptrivia.sh
 
 # Clears terminal
 clear
@@ -211,4 +211,4 @@ sleep $sleep_timer
 # Script self deletes so they won't even know what hit them
 
 # Deletes file, granted its in /Pictures
-# rm -f ~/Pictures/.sleeptrivia.sh
+# rm -f ~/Pictures/sleeptrivia.sh
